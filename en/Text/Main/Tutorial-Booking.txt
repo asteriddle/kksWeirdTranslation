@@ -1,5 +1,5 @@
 #set level -1024
-女の子の滞在先を登録して、=Register a girl
+女の子の滞在先を登録して、=Register a lady
 マップに女の子を登場させよう！=And she'll pop up on the map!
 ◆島で女の子に出会うには？=◆ How to meet girls on the island?
 滞在先画面を開く=Open “Booking”

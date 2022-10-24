@@ -7,7 +7,7 @@
 やめる=Cancel
 タイトルへの切替確認=Confirm Return to Main Menu
 タイトルへ戻りますか？=Back to the Main Menu?
-一日の行動終了の確認=Confirm the end of the day's activities
+一日の行動終了の確認=End the day?
 部屋に帰りますか？=Return to your room?
 「疲れたし今日は寝るか…」=I'm tired, I think I'll go to bed today...
 「コイカツ」のデータを「コイカツサンシャイン」のデータに変換します。=Converting "Koikatsu" cards to "Koikatsu Sunshine" cards.

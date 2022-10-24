@@ -1,8 +1,8 @@
 #set exe KoikatsuSunshine
 プレイヤーを選択して下さい ▼=Please Select a Player ▼
 新規作成=Create New
-滞在目的=Porpuse for Stay
-研修旅行=Study Tour
+滞在目的=Purpose for Stay
+研修旅行=Lonely heart
 誕生日/=Birthday/
 月=Month
 日=Day

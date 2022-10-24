@@ -17,7 +17,7 @@
 日= D
 血液型/=Blood Type
 型= 
-滞在目的=Purpuse for Stay
+滞在目的=Purpose for Stay
 性格:=Pers:
 愛称:=Nick:
 滞在者登録=Register Guest

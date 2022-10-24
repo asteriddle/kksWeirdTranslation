@@ -48,5 +48,5 @@
 ●「特殊Ｈ」=● Special H
 女の子<size%3D30>と</size>\n行動中<size%3D30>に</size>発生<size%3D30>する</size>\n　　　　特殊スポット=\n\nOnly appears when a girl is following you
 ●「休憩」=● Rest
-欲求不満<size%3D30>な</size>\n女の子<size%3D30>に</size>\n襲われる<size%3D30>ことがある</size>\n特殊スポット=\nYou may get “assaulted” by a horny girl at this spot
+欲求不満<size%3D30>な</size>\n女の子<size%3D30>に</size>\n襲われる<size%3D30>ことがある</size>\n特殊スポット=\nYou may get a wake up call by a horny girl at this spot
 #unset level -1024

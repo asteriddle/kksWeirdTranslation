@@ -19,7 +19,7 @@ The mangled auto translation of storymode is a hot mess so I'm fixing it in my o
 ## Progress
    god help me
 
-   Story: Not started  
+   Story: Intro done  
 
    Personality 00 | Sexy: Not started  
    Personality 01 | Ojousama: Not started  
@@ -35,7 +35,7 @@ The mangled auto translation of storymode is a hot mess so I'm fixing it in my o
    Personality 11 | Motherly: Not started  
    Personality 12 | Big sister: Not started  
    Personality 13 | Gyaru: Not started  
-   Personality 14 | Delinquent: Not started  
+   Personality 14 | Delinquent: Comm done, topic 75% done, H and ADV not done
    Personality 15 | Wild: Not started  
    Personality 16 | Wannabe: Not started  
    Personality 17 | Reluctant: Not started  
@@ -59,16 +59,22 @@ The mangled auto translation of storymode is a hot mess so I'm fixing it in my o
    Personality 35 | Slangy: Not started  
    Personality 36 | Sadistic: Not started  
    Personality 37 | Emotionless: Not started  
+   Personality 38 | Perfectionist: Not started
+   Personality 39 | Island girl: Not started
+   Personality 40 | Noble: Not started
+   Personality 41 | Bokukko: Not started
+   Personality 42 | Genuine: Not started
+   Personality 43 | Hype: Not started
 
 ## Getting Started
 
 ### Dependencies
 
-* write this later
+* im too lazy to properly write this now just uhhhhh get the hf patch or whatever
 
 ### Installing
 
-* write this later
+* delete en folder in BepInEx\Translation. replace with the en folder from this repo. ill make a zipped release when im done/made significant progress but atm text is not zipped.
 
 ## Help & Contributions
 
@@ -79,5 +85,5 @@ This is mostly meant as a silly personal writing thing, but in the case of typos
 
 ## Acknowledgments
 
-Base translation files;
-* write this later
+Base translation files/textdump;
+* KKS-Translation

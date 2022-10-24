@@ -1,9 +1,9 @@
 #set exe KoikatsuSunshine
 #set level 10
 エッチ経験=Sex Experience
-女の子が絶頂した=The Girl Climaxed
-男が射精した\r=The Man Ejaculated\r
-同時絶頂した\r=Climaxed Simultaneously\r
+女の子が絶頂した=The partner climaxed
+男が射精した\r=The player climaxed\r
+同時絶頂した\r=Climaxed simultaneously\r
 なにもしなかった=I did nothing
 ボーナス=Bonus
 初めてのエッチ\r\n=First time having sex\r\n
