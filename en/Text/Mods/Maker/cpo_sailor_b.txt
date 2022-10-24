@@ -1,0 +1,7 @@
+タイプ２ (No frills)=Type 2 (No frills)
+第3新東京市立第壱中学校制服=Daiichi Junior High School Uniform
+みら僕=Miraboku
+タイプ５改（胸当てラインなし色連動）=Type 5 modified (without breastplate line, color linked)
+タイプ５改（胸当てラインなし色固定）=Type 5 modified (no breastplate line, color fixed)
+タイプ５改（胸当てラインなし）=Type 5 modified (no Breastplate Line)
+なし=None

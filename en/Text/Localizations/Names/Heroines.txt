@@ -1,0 +1,4 @@
+ひかり=Hikari
+比嘉=Higa
+ひかり 比嘉=Hikari Higa 
+比嘉 ひかり=Higa Hikari

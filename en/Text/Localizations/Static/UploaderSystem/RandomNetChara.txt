@@ -1,0 +1,1 @@
+キャラ情報の取得に失敗しました=Failed to obtain character data.

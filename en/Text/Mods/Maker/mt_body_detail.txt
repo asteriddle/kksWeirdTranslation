@@ -1,0 +1,4 @@
+濃=Dark
+ムキムキ 濃=Muscular Dark
+ポッチャリ 濃=Chubby Dark
+スレンダー 濃=Slender Dark

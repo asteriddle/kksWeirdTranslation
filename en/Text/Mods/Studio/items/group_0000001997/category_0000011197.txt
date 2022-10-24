@@ -1,0 +1,2 @@
+#set exe CharaStudio
+PokéBall=PokéBall

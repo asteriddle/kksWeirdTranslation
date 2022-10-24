@@ -1,0 +1,16 @@
+#set exe KoikatsuSunshine
+#set level 6
+話を振る=Subject
+世間話=Small Talk
+コイバナ=Love Talk
+エッチ=H Talk
+話題を振る=Topics
+話題を選ぶ=Topics
+誤魔化す=Dodge Question
+コイカツ=Dating
+一緒に観光=Tourism Together
+一緒に遊ぼう=Play Together
+一緒に体験しよう=Experience Together
+一緒に食事しよう=Eat Together
+ついてきて=Follow me
+告白する=Confess

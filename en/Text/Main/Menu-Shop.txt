@@ -1,0 +1,16 @@
+#set exe KoikatsuSunshine
+#set level 6
+r:^（<size%3D30>([０-９0-9]+)</size>pt消費）$=(Costs <size%3D30>$1</size> pt)
+夜限定ショップ=Night Only Store
+準備中=Preparing
+未入荷=Out of Stock
+どんな御用でしょうか？=How can I help you?
+購入確認=Purchase Confirmation
+以下のアイテムを購入します。=Buy the following items.
+ポイントが不足していて購入できません。=You don't have enough Koikatsu points.
+交換=Exchange
+所持中の話題（☆1、☆2）=Topics in inventory with 1☆ and 2☆
+▼クリックで所持品に戻す=▼ Click to return to inventory
+話題を選択=Choose a topic
+交換結果=Result
+所持コイカツポイント=Current Koikatsu Points

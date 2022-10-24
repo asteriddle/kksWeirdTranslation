@@ -1,0 +1,3 @@
+#set exe KoikatsuSunshine
+#set level 6
+ActionScene/UI/Communication/Canvas/R18=ChangeFontSizeByPercentage(0.85)

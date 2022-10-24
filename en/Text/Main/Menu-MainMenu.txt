@@ -1,0 +1,15 @@
+#set exe KoikatsuSunshine
+#set level 4
+戻る=Back
+スタート=New Game
+ロード=Load Game
+キャラメイク=Character Maker
+エクストラ=Extras
+コンフィグ=Configuration
+エンド=Quit
+女キャラ=Girls
+男キャラ=Boys
+アップローダー=Uploader
+ダウンローダー=Downloader
+フリーH=Free H
+アルバム=Album

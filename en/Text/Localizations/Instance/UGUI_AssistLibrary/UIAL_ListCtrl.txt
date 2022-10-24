@@ -1,0 +1,2 @@
+全て表示=Show All
+未分類=Uncategorized

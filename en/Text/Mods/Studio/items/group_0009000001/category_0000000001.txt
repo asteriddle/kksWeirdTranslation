@@ -1,0 +1,9 @@
+#set exe CharaStudio
+大脑=Brain
+肺=Lung
+隔膜=Diaphragm
+大肠=Large intestine
+小肠=Small intestine
+胃=Stomach
+眼球=Eyeball
+眼球-腐坏=Eyeball-Corruption

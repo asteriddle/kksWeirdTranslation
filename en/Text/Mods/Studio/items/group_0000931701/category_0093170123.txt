@@ -1,0 +1,8 @@
+#set exe CharaStudio
+公寓走廊=Folk Hallway
+公寓車庫=Garage
+公寓車庫道具=Fare Garage Tools
+錘子=Weights
+螺絲刀=Spiral knives
+噴漆罐=Lacquer Can
+工具箱=Tool Box

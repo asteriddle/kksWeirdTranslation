@@ -1,0 +1,10 @@
+#set exe CharaStudio
+CH1-Camera 30°=CH1-Camera 30
+CH1-Camera 90°=CH1-Camera 90° CH1-Camera 120
+CH1-Camera 120°=CH1-Camera 90° CH1-Camera 120
+CH2-Camera 30°=CH2-Camera 30° CH2-Camera 90
+CH2-Camera 90°=CH2-Camera 90° CH2-Camera 120
+CH2-Camera 120°=CH2-Camera 120° CH3-Camera 30
+CH3-Camera 30°=CH3-Camera 30° CH3-Camera 90
+CH3-Camera 90°=CH3-Camera 90° CH3-Camera 120
+CH3-Camera 120°=CH3-Camera 120

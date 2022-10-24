@@ -1,0 +1,4 @@
+#set exe CharaStudio
+ロード・カルデアス=Lord Chaldeans
+盾の勇者の盾=Shield Hero Shield
+オレンジバルーン=Orange Balloon

@@ -1,0 +1,2 @@
+なし=None
+ギザ歯=Gizzard Teeth

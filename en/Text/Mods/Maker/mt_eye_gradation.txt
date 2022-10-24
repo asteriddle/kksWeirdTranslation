@@ -1,0 +1,16 @@
+タイプＡ=Type A
+タイプＢ=Type B
+タイプＣ=Type C
+タイプＤ=Type D
+タイプＥ=Type E
+タイプＦ=Type F
+タイプＧ=Type G
+タイプＨ=Type H
+タイプＩ=Type I
+タイプＪ=Type J
+タイプＫ=Type K
+タイプＬ=Type L
+タイプＭ=Type M
+タイプＮ=Type N
+タイプＯ=Type O
+タイプＰ=Type P

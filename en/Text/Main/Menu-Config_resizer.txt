@@ -1,0 +1,4 @@
+#set exe KoikatsuSunshine
+#set level -1
+ConfigScene(Clone)/Canvas/imgWindow/ScrollView/Content/Node Graphic/Garphic/title=UGUI_HorizontalOverflow(overflow)
+ConfigScene(Clone)/Canvas/imgWindow/ScrollView/Content/Node Graphic/Garphic/title=ChangeFontSizeByPercentage(0.95)

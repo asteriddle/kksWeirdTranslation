@@ -1,0 +1,3 @@
+#set exe CharaStudio
+スポーツ=Sports
+サマー=Summer

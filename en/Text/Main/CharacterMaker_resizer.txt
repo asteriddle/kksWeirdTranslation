@@ -1,0 +1,6 @@
+#set exe KoikatsuSunshine
+#set level 3
+CustomScene/CustomRoot/FrontUIGroup/CustomUIGroup/CvsMenuTree/06_SystemTop/charaFileControl/charaFileWindow/WinRect/imgBack/Header=ChangeFontSizeByPercentage(0.85)
+CustomScene/CustomRoot/FrontUIGroup/CustomUIGroup/CvsMenuTree/06_SystemTop/charaFileControl/charaFileWindow/WinRect/imgBack/SortButtons/tglSortPersonality=AutoResize(false)
+CustomScene/CustomRoot/FrontUIGroup/CustomUIGroup/CvsMenuTree/06_SystemTop/charaFileControl/charaFileWindow/WinRect/imgBack/SortButtons/tglSortPersonality=ChangeFontSizeByPercentage(0.5)
+CustomScene/CustomRoot/FrontUIGroup/CustomUIGroup/CvsMenuTree/06_SystemTop/charaFileControl/charaFileWindow/WinRect/ListArea=AutoResize(true)

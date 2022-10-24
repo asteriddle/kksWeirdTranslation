@@ -1,0 +1,2 @@
+#set exe CharaStudio
+日用品=Daily Life

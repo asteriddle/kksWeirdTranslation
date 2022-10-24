@@ -1,0 +1,2 @@
+#set exe CharaStudio
+Pokémon Egg=Pokémon Egg

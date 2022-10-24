@@ -1,0 +1,2 @@
+#set exe CharaStudio
+ワールドイズマイン Stage=World is Mine Stage

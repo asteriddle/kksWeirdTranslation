@@ -1,0 +1,6 @@
+#set exe CharaStudio
+パーライト 虹=Perlight Rainbow
+パーライト 青=Perlite Blue
+パーライト 赤=Perlite Red
+パーライト 黄=Perlite Yellow
+スポットレーザー 虹=Spot Laser Rainbow

@@ -1,0 +1,2 @@
+#set exe CharaStudio
+器官=Organs

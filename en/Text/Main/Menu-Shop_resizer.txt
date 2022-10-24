@@ -1,0 +1,8 @@
+#set exe KoikatsuSunshine
+#set level 6
+ActionScene/UI/ShopMenuCanvas/Canvas/BackImage/KoikatsuPoint/Title=ChangeFontSizeByPercentage(0.9)
+ActionScene/UI/ShopMenuCanvas/Canvas/BackImage/ShopView/Panel/View/Scroll View/Viewport/Content=ChangeFontSizeByPercentage(0.9)
+ActionScene/UI/ShopMenuCanvas/Canvas/BackImage/ShopView/Panel/Tag/Type2/Disabled/Standby/Text (TMP)=ChangeFontSizeByPercentage(0.75)
+ActionScene/UI/ShopMenuCanvas/Canvas/BackImage/ShopTradeView/Panel/BG/View/Stock/TitleBG/Title=ChangeFontSizeByPercentage(0.95)
+ActionScene/UI/ShopMenuCanvas/Canvas/BackImage/ShopTradeView/Panel/BG/View/Stock/TitleBG/Title=TMP_Alignment(Left)
+ActionScene/UI/ShopMenuCanvas/Canvas/BackImage/ShopTradeView/Panel/BG/View/Selection/TitleBG/Title=ChangeFontSizeByPercentage(0.88)

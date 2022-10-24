@@ -1,0 +1,2 @@
+#set exe CharaStudio
+画面効果=Scene Effects

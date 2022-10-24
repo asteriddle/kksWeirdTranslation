@@ -1,0 +1,4 @@
+#set exe CharaStudio
+ラビットハウス=Rabbit House
+天満宮=Tenmangu
+清水風=Shimizu Style

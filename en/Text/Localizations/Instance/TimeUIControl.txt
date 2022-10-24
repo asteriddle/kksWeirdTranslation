@@ -1,0 +1,4 @@
+朝=Dawn
+昼=Noon
+夕=Dusk
+夜=Night

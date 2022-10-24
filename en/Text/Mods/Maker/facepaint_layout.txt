@@ -1,0 +1,8 @@
+左の口元=Lower Lip L
+右の口元=Lower Lip R
+左の口上=Upper Lip L
+右の口上=Upper Lip R
+左の目元=Eye L
+右の目元=Eye R
+額中央=Middle of Forehead
+そばかす=Freckles

@@ -1,0 +1,3 @@
+#set exe CharaStudio
+食べ物=Food
+小道具=Small Props

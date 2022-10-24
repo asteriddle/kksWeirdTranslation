@@ -1,0 +1,5 @@
+#set exe KoikatsuSunshine
+EntryPlayer(Clone)/Canvas/selectionBG/Information/Names/NickName/Title=ChangeFontSizeByPercentage(0.95)
+EntryPlayer(Clone)/Canvas/selectionBG/Information/Names/NickName/CallButtonLayout=ChangeFontSizeByPercentage(0.8)
+EntryPlayer(Clone)/NickNameSettingScene/Canvas/BG2/Info/CallIcons=ChangeFontSizeByPercentage(0.9)
+EntryPlayer(Clone)/NickNameSettingScene/Canvas/50SoundsInitialButtons=ChangeFontSizeByPercentage(0.5)

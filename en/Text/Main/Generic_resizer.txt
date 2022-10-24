@@ -1,0 +1,11 @@
+#set exe KoikatsuSunshine
+SaveLoad(Clone)/Panel/BG/Files/00/BG/Button/Information=AutoResize(true, 10, 20)
+SaveLoad(Clone)/Panel/BG/Files/01/BG/Button/Information=AutoResize(true, 10, 20)
+SaveLoad(Clone)/Panel/BG/Files/02/BG/Button/Information=AutoResize(true, 10, 20)
+SaveLoad(Clone)/Panel/BG/Files/03/BG/Button/Information=AutoResize(true, 10, 20)
+SaveLoad(Clone)/Panel/BG/Files/04/BG/Button/Information=AutoResize(true, 10, 20)
+SaveLoad(Clone)/Panel/BG/Files/05/BG/Button/Information=AutoResize(true, 10, 20)
+SaveLoad(Clone)/Panel/BG/Files/06/BG/Button/Information=AutoResize(true, 10, 20)
+SaveLoad(Clone)/Panel/BG/Files/07/BG/Button/Information=AutoResize(true, 10, 20)
+SaveLoad(Clone)/Panel/BG/Files/08/BG/Button/Information=AutoResize(true, 10, 20)
+SaveLoad(Clone)/Panel/BG/Files/09/BG/Button/Information=AutoResize(true, 10, 20)

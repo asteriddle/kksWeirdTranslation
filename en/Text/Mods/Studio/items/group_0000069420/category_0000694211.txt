@@ -1,0 +1,11 @@
+#set exe CharaStudio
+保險套（6連）=Insurance Mantle (6 pcs)
+保險套（6個）=Insurance Mantle (6 pieces)
+保險套盒=Private Library
+保險套（已開封）=Insurance Mantle (6)
+保險套=Insurance Cover
+路人剪影（圓圈）=Roadside Assistance (circle)
+路人剪影（長方形）=Roadside Pruning (Rectangle)
+路人剪影（影子）=Roadside Assistance
+遙控按摩棒=Far Away Anesthesia
+Pedo熊=Pedo Bear

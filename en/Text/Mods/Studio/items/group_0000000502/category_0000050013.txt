@@ -1,0 +1,4 @@
+#set exe CharaStudio
+スカイドーム=Sky Dome
+透過球=Transparent Sphere
+画像球 外側=Image Sphere Outside

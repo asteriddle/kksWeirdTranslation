@@ -1,0 +1,11 @@
+シワシワ=Wrinkles
+タイプＡ=Type A
+タイプＢ=Type B
+タイプＣ=Type C
+タイプＤ=Type D
+タイプＥ=Type E
+タイプＦ=Type F
+サクヤ協調=Sakuya coordination
+未使用データ=Unused data
+しわ１=Wrinkle 1
+しわ２=Wrinkle 2

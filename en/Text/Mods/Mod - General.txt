@@ -1,0 +1,3 @@
+sr:"^(?<nonLatin>[^\u0000-\u024F]+)(?<latin_i>[\u0020-\u024F｢【｣】]+)$"=${nonLatin} ${latin_i}
+sr:"^(?<latin_i>[\u0020-\u024F｢【｣】]+)(?<nonLatin>[^\u0000-\u024F]+)(?<latin2_i>[\u0020-\u024F｢【｣】]*)$"=${latin_i} ${nonLatin} ${latin2_i}
+r:"^kunoichi.(.*)$"=Ninja Girl $1

@@ -1,0 +1,8 @@
+未選択=None Selected
+なし=None
+唇=Lips
+胸=Chest
+股間=Crotch
+アナル=Anus
+尻=Butt
+乳首=Nipples

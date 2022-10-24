@@ -1,0 +1,3 @@
+自作=Made by You
+他作=Made by Others
+プリセット=Presets

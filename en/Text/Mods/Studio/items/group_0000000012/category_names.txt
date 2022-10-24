@@ -1,0 +1,2 @@
+#set exe CharaStudio
+舰R装备=R Equipment

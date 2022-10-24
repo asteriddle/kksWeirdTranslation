@@ -1,0 +1,4 @@
+#set exe CharaStudio
+MOD ディレクショナル=MOD Directional
+MOD ポイントライト=MOD Point light
+MOD スポットライト=MOD Spotlight

@@ -1,0 +1,3 @@
+#set exe CharaStudio
+草原(円)=Meadow (circle)
+草原(四角)=Grassland (square)

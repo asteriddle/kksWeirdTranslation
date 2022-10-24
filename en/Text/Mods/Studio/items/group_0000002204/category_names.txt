@@ -1,0 +1,2 @@
+#set exe CharaStudio
+樂器=Musical instrument

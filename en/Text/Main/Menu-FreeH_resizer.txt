@@ -1,0 +1,16 @@
+#set exe KoikatsuSunshine
+#set level 11
+FreeHScene/Canvas/Panel/SelectTab3P/Tab/MasturbationTab=ChangeFontSizeByPercentage(0.95)
+FreeHScene/Canvas/Panel/Normal/TimeZone=AutoResize(true)
+FreeHScene/Canvas/Panel/EnterBG=AutoResize(true)
+FreeHScene/Canvas/Panel/Masturbation/TimeZone=AutoResize(true)
+FreeHScene/Canvas/Panel/Masturbation/Discovery/Title=AutoResize(true)
+FreeHScene/Canvas/Panel/Lesbian/TimeZone=AutoResize(true)
+FreeHScene/Canvas/Panel/3P/FemaleSelect/FemaleName_01/State/name/NameTitle=AutoResize(true)
+FreeHScene/Canvas/Panel/3P/FemaleSelect/FemaleName_02/State/name/NameTitle=AutoResize(true)
+FreeHScene/Canvas/Panel/3P/FemaleSelect/FemaleName_01/State/Personal/PersonalTitle=ChangeFontSizeByPercentage(0.8)
+FreeHScene/Canvas/Panel/3P/FemaleSelect/FemaleName_02/State/Personal/PersonalTitle=ChangeFontSizeByPercentage(0.8)
+FreeHScene/Canvas/Panel/3P/main/TimeZone=AutoResize(true)
+FreeHCharaSelect(Clone)/previewcharacanvas/charaFileControl/charaFileWindow/WinRect/imgBack/Header=ChangeFontSizeByPercentage(0.85)
+FreeHCharaSelect(Clone)/previewcharacanvas/charaFileControl/charaFileWindow/WinRect/ListArea=AutoResize(true)
+MapSelectMenu(Clone)/Canvas/Panel/BG/Image/ScrollView=ChangeFontSizeByPercentage(0.8)

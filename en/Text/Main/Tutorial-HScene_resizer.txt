@@ -1,0 +1,5 @@
+#set exe KoikatsuSunshine
+$set level -1024
+Tutorial_H(Clone)/BG/Panel/Main/H/Page 3/Contents2/2/2_Text (2)=ChangeFontSizeByPercentage(0.7)
+Tutorial_H(Clone)/BG/Panel/Main/H/Page 3/Contents2/2/2_Text (3)=ChangeFontSizeByPercentage(0.7)
+Tutorial_H(Clone)/BG/Panel/Main/H/Page 3/Contents2/2/2_Text (4)=ChangeFontSizeByPercentage(0.7)

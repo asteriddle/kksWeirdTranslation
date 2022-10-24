@@ -1,0 +1,3 @@
+#set exe CharaStudio
+C=C
+H=H

@@ -1,0 +1,10 @@
+#set exe CharaStudio
+マップ PPD 地下街=Map PPD Underground Street
+マップ PPD 自室=Map PPD Own Room
+マップ PPD オフィス=Map PPD Office
+マップ PPD 楽屋=Map PPD Dressing Room
+マップ PPD プール=Map PPD Pool
+マップ PPD 喫茶店=Map PPD Cafe
+マップ PPD ポルノストア=Map PPD Porn Store
+マップ PPD 地下室=Map PPD Basement
+マップ PPDA 温泉=Map PPDA Hot Springs

@@ -1,0 +1,15 @@
+#set exe CharaStudio
+アメリカンダイナー風ステージ=American Diner Style Stage
+星=Star
+香港觀塘=Hong Kong Kwantung
+海☆中☆屋=Sea China House
+アメリカンな家=American House
+BKステージ=BK Stage
+CxRed room配布用=CxRed room for distribution
+欧米風アパート=Western Style Apartment
+夕景Yステージ=Sunset Y Stage
+牢屋ステージ=Prison Stage
+あのイベント会場=That event hall
+ロマンスな司書室=Romance Librarian Room
+洋館書庫 Western Style Library=Western Style Library
+聖誕節=Nativity Day

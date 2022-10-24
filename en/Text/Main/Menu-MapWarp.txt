@@ -1,0 +1,5 @@
+#set exe KoikatsuSunshine
+#set level -1
+マップワープ=Map Warp
+現在地=Current
+ここに行く=Go There

@@ -1,0 +1,5 @@
+#set exe CharaStudio
+乗馬鞭１=Riding whip 1
+乗馬鞭２=Riding whip 2
+バラ鞭１=Rose whip 1
+バラ鞭２=Rose whip 2

@@ -1,0 +1,6 @@
+左頬=Side of Face L
+右頬=Side of Face R
+おでこ=Forehead
+鼻=Nose
+口=Mouth
+顎=Jaw

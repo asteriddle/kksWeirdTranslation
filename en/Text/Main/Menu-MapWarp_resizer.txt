@@ -1,0 +1,4 @@
+#set exe KoikatsuSunshine
+#set level -1
+MapSelectMenu(Clone)/Canvas/Panel/BG/Image/ScrollView/Content/MapButton(Clone)/TextBG=ChangeFontSizeByPercentage(0.85)
+MapSelectMenu(Clone)/Canvas/Panel/BG/Image/ScrollView/Content/MapButton(Clone)/Now=ChangeFontSizeByPercentage(0.9)

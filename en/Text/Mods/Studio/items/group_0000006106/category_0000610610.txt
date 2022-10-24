@@ -1,0 +1,4 @@
+#set exe CharaStudio
+クリーム1=Cream 1
+クリーム2=Cream 2
+イチゴ=Strawberries

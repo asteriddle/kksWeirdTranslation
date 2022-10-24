@@ -1,0 +1,6 @@
+一致=Equal
+不一致=Not Equal
+以上=Greater Or Equal
+以下=Less Or Equal
+より大きい=Greater Than
+より小さい=Less Than

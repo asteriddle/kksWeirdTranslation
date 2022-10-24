@@ -1,0 +1,3 @@
+#set exe CharaStudio
+地图本体=Main Map
+天空框架=Skybox

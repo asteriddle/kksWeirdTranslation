@@ -1,0 +1,2 @@
+#set exe CharaStudio
+ワールドイズマイン stage MDK=World is Mine stage MDK

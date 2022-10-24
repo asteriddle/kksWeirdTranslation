@@ -1,0 +1,10 @@
+#set exe KoikatsuSunshine
+#set level 6
+ActionScene/UI/ActionMenuCanvas/Menu Root/Menu MapWarp/Home=ChangeFontSizeByPercentage(0.9)
+ActionScene/UI/PlayerStatus/Canvas/BackImage/BG/Right/Stock/imgBack=ChangeFontSizeByPercentage(0.8)
+ActionScene/UI/PlayerStatus/Canvas/BackImage/BG/Left/Lovers/Count/Unit=ChangeFontSizeByPercentage(0.0)
+ActionScene/UI/HeroineStatus/Canvas/BG/background/SortButtons=ChangeFontSizeByPercentage(0.8)
+ActionScene/UI/HeroineStatus/Canvas/BG/background/btnChangeInfo=ChangeFontSizeByPercentage(0.95)
+ActionScene/UI/HeroineStatus/Canvas/BG/background/CharaView/Scroll View/Viewport/Content/status_fix(Clone)/passport_fix/resize/text/Blood/BloodText=TMP_Alignment(Left)
+ActionScene/UI/HeroineStatus/Canvas/BG/background/CharaView/Scroll View/Viewport/Content/status_f(Clone)/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+ActionScene/UI/ActionMoveGuideCanvas/Root/Move/Text (TMP)=ChangeFontSizeByPercentage(0.75)
