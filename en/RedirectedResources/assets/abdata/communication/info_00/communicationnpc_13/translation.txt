@@ -1,0 +1,2 @@
+「そうなんですか？」=“Is that so?”
+「この間、見かけたんだけど……」=“I saw something, the other day...”

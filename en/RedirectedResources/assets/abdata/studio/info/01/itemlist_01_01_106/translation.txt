@@ -1,0 +1,16 @@
+灯台=Lighthouse
+小屋1=Hut 1
+小屋2=Hut 2
+公衆トイレ=Public Bathroom
+ウムイの鐘=The Umui Bell
+木の柵=Wooden Fence
+コーンバー=Cone Bar
+welcome看板=Welcome Sign
+立て看板1=Billboard 1
+立て看板2=Billboard 2
+バスケットゴール=Basketball Backboard
+カヌー=Canoe
+自販機=Vending Machine
+エアコン=Air Conditioner
+換気扇=Ventilation Fan
+消波ブロック=Wave-Breaking Block

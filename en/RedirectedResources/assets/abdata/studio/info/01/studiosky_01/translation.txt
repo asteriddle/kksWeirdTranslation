@@ -1,0 +1,4 @@
+晴れた空=Sunny Sky
+昼の空=Noon Sky
+夕暮れの空=Evening Sky
+夜空=Night Sky

@@ -1,0 +1,2 @@
+「あのさ、ちょっとお願いがあるんだけど……」=“Um, so, I have a little request for you...”
+「[Pあだ名]」=“[Pあだ名]”

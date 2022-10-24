@@ -1,0 +1,16 @@
+「はい、なんですか？」=“Yes, what is it?”
+「なんでしょう？」=“What is it?”
+「好きな男性のタイプってある？」=“Do you have a type, in terms of guys?”
+「積極的な男性ってどう思う？」=“What do you think of proactive guys?”
+「慎重な男性ってどう思う？」=“What do you think of careful guys?”
+「勤勉な男性ってどう思う？」=“What do you think of dilligent guys?”
+「マイペースな男性ってどう思う？」=“What do you think of guys who go at their own pace?”
+「優しい男性ってどう思う？」=“What do you think of kind and gentle guys?”
+「クールな男性ってどう思う？」=“What do you think of cool guys?”
+「あら、もうこんな時間。もっとお話していたいですが、仕方ないですね」=“Oh, look at the time. I wanted to talk more, but it can't be helped.”
+「ちょっと付いてきてもらっていい？」=“Could I get you to follow me for a bit?”
+「俺……君のことが好きなんだ」=“I... I really like you.”
+「はい。なんですか？」=“Yes, what is it?”
+「オナニーってしたりする？」=“Do you ever masturbate and stuff?”
+「あのさ、[Hあだ名]」=“Listen, [Hあだ名].”
+「あの……[Pあだ名]」=“Uhm... [Pあだ名]”

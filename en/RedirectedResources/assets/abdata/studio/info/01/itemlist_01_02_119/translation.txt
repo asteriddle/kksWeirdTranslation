@@ -1,0 +1,6 @@
+木の椅子1=Wooden Chair 1
+木の椅子2=Wooden Chair 2
+木の机1=Wooden Desk 1
+木の机2=Wooden Desk 2
+木の机3=Wooden Desk 3
+木の机4=Wooden Desk 4

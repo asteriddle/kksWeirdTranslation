@@ -1,0 +1,14 @@
+「好きな男性のタイプってある？」=“Do you have a type, in terms of guys?”
+「積極的な男性ってどう思う？」=“What do you think of proactive guys?”
+「慎重な男性ってどう思う？」=“What do you think of careful guys?”
+「勤勉な男性ってどう思う？」=“What do you think of dilligent guys?”
+「マイペースな男性ってどう思う？」=“What do you think of guys who go at their own pace?”
+「優しい男性ってどう思う？」=“What do you think of kind and gentle guys?”
+「クールな男性ってどう思う？」=“What do you think of cool guys?”
+「エッチなことに興味はある？」=“Do you have any interest in lewd stuff?”
+「ちょっと付いてきてもらっていい？」=“Could I get you to follow me for a bit?”
+「どんなプロボーズをされたい？」=“How would you like to be proposed to?”
+「エッチな妄想ってする？」=“Do you have any sexual fantasies?”
+「ちょっと付いてきて」=“Come with me for a bit.”
+「ここで[H]とHしたい」=“I wanna do it with you right here.”
+「どうしたの？　[Hあだ名]」=“What's up, [Hあだ名]?”

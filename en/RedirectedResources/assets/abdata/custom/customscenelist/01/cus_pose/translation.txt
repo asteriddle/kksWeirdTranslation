@@ -1,0 +1,5 @@
+Ｈ１=H-Pose 1
+Ｈ２=H-Pose 2
+Ｈ３=H-Pose 3
+Ｈ４=H-Pose 4
+Ｈ５=H-Pose 5

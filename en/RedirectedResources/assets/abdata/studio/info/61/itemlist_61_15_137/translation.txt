@@ -1,0 +1,2 @@
+左手=Left Hand
+右手=Right Hand

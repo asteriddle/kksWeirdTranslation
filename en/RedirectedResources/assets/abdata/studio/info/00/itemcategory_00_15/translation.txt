@@ -1,0 +1,3 @@
+通常=General
+H=H
+ヒューマンFK=Human FK

@@ -1,0 +1,13 @@
+「積極的な男ってどう思う？」=“What do you think of assertive guys?”
+「慎重な男ってどう思う？」=“What do you think of reserved, cautious guys?”
+「勤勉な男ってどう思う？」=“What do you think of dilligent guys?”
+「マイペースな男ってどう思う？」=“What do you think of easygoing guys, guys that go at their own pace?”
+「優しい男ってどう思う？」=“What do you think of gentle, kind guys?”
+「クールな男ってどう思う？」=“What do you think of the "cool" sort of guys?”
+「一緒にどこか観光に行こうよ」=“Let's go sightseeing somewhere together.”
+「ちょっと付いてきてくれない？」=“Could you follow me for a bit?”
+「ちょっと付いてきてもらっていい？」=“Could I get you to follow me for a bit?”
+「生理って重い方？」=“Are your periods heavy?”
+「ねぇ、ここで[H名]とHしたいな」=“Hey, I want to have sex with you here, [H名].”
+「あのさ、俺の部屋に来てくれない？」=“Um, hey, why don't you come to my room?”
+「ねぇ、[Hあだ名]」=“Hey, [Hあだ名].”

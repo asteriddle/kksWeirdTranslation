@@ -1,0 +1,2 @@
+「好きな男性のタイプってある？」=“Do you have a type, in terms of guys?”
+「ねえ、[Pあだ名]」=“Hey, [Pあだ名].”

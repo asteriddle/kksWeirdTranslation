@@ -1,0 +1,2 @@
+「えっと……混ざりたいの？　……どうする？」=“Erhm... You wanna join us? What do you wanna do?”
+「えっと……混ざりたいの？　俺はいいけど……」=“Erhm... you wanna join us? I'm fine with it but...”

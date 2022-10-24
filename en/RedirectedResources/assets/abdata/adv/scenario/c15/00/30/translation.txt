@@ -1,0 +1,6 @@
+「ここは絶景だね」=“What a spectacular view.”
+「そうだなー！　高台になってるからなー！」=“That's for sure! We're up on a hill-!”
+「遮るものがないから、ちょっと風が強いね」=“There're nothing to block the wind. It's a little breezy.”
+「凧揚げしたら、空が飛べるかも知れないなー」=“If we flew a kite, it might go up really high-”
+「そのまま灯台の天辺まで行けたりしてね」=“We might be able to climb to the very top of the lighthouse.”
+「あはは！　そうなったら面白いだろうなー」=“Ahaha! That would be interesting-”

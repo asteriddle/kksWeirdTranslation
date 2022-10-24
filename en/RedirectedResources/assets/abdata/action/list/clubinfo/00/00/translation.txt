@@ -1,0 +1,5 @@
+バカンス=Vacation
+灯台=Lighthouse
+アウトドア=Activities
+知的好奇心=Curiosity
+ランダム=Random

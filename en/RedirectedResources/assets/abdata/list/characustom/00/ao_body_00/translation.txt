@@ -1,0 +1,15 @@
+リュックサック=Backpack
+背負いボストン=Boston Bag
+背負いカバン=Leather Backpack
+ポスターリュックサック=Backpack With Posters
+小悪魔の翼左用=Left Devil Wing
+小悪魔の翼右用=Right Devil Wing
+悪魔の翼左用=Left Demon Wing
+悪魔の翼右用=Right Demon Wing
+天使の翼左用=Left Angel Wing
+天使の翼右用=Right Angel Wing
+ギターケース=Guitar Case
+アーマープレート=Armor Plate
+ボディバッグ（左）=Body Strap Bag (L)
+ボディバッグ（右）=Body Strap Bag (R)
+レザーバッグ=Leather Bag

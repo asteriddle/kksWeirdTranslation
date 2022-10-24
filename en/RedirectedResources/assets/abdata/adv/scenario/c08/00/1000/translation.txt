@@ -1,0 +1,2 @@
+「カップルドリンクが飲めるんだって。頼んでみようよ」=“They have a drink for couples to share. Let's ask for one.”
+「[H名]……」=“[H名]...”

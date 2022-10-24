@@ -1,0 +1,4 @@
+フレーム1=Frame 1
+フレーム2=Frame 2
+フレーム3=Frame 3
+フレーム4=Frame 4

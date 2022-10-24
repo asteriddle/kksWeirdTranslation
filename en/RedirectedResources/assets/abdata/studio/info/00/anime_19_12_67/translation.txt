@@ -1,0 +1,3 @@
+ダイブ=Diving
+チッチッチ1=Correcting 1
+チッチッチ2=Correcting 2

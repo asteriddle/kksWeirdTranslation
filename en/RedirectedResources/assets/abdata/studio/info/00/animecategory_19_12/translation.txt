@@ -1,0 +1,4 @@
+ポーズ=Pose
+アクション1=Action 1
+アクション2=Action 2
+ダンス=Dancing

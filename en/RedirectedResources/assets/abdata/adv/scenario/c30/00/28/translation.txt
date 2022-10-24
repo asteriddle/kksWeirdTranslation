@@ -1,0 +1,2 @@
+「お邪魔するわね」=“Sorry to interrupt.”
+「さて、と……どうしよっか？　……早速しちゃう……？」=“So...w-what should we do?  ...shouldn't we just get started...?”

@@ -1,0 +1,4 @@
+木の柱1=Wooden Pillar 1
+木の柱2=Wooden Pillar 2
+木のドア1=Wooden Door 1
+木のドア2=Wooden Door 2

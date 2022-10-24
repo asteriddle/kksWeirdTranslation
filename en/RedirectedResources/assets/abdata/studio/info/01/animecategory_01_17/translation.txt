@@ -1,0 +1,10 @@
+ポーズ=Pose
+立ち=Standing
+会話=Conversation
+椅子=Chairs
+椅子・机=Sitting At Desk
+床=Sitting On Floor
+食べる=Eating
+アクション=Action
+寝=Laying
+男=Male

@@ -1,0 +1,2 @@
+蔓草左用=Vines Left
+蔓草右用=Vines Right

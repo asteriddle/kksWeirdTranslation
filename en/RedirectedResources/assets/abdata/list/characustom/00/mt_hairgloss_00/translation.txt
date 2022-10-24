@@ -1,0 +1,9 @@
+なし=None
+線ハイライト=Line Highlight
+丸ハイライト=Circle Highlight
+雷ハイライト=Lightning Bolt Highlight
+帯ハイライト=Band Highlight
+四角ハイライト=Square Highlight
+ぼかし帯ハイライト=Gradient Band Highlight
+ぼかし四角ハイライト=Gradient Square Highlight
+ぼかし線ハイライト=Gradient Line Highlight

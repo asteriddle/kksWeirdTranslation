@@ -1,0 +1,3 @@
+スイートルーム利用券=Suite room ticket
+ホテルのスイートルームを利用できるようになるチケット。=A ticket that allows you to use a private hotel suite.
+残り{0}個={0} left in stock

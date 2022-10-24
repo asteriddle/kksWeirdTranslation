@@ -1,0 +1,7 @@
+事務椅子=Office Chair
+ビーチチェア1=Beach Chair 1
+ビーチチェア2=Beach Chair 2
+プラスチックベンチ=Plastic Bench
+ロッカー1=Locker 1
+ロッカー2=Locker 2
+お店のカウンター=Shop Counter

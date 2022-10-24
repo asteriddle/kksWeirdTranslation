@@ -1,0 +1,17 @@
+「好きな男性のタイプってある？」=“Do you have a type, in terms of guys?”
+「積極的な男性ってどう思う？」=“What do you think of proactive guys?”
+「慎重な男性ってどう思う？」=“What do you think of careful guys?”
+「勤勉な男性ってどう思う？」=“What do you think of dilligent guys?”
+「マイペースな男性ってどう思う？」=“What do you think of guys who go at their own pace?”
+「優しい男性ってどう思う？」=“What do you think of kind and gentle guys?”
+「クールな男性ってどう思う？」=“What do you think of cool guys?”
+「さて、次はどうする？」=“Now then, what shall we do next?”
+「ちょっと付いてきてもらっていい？」=“Could I get you to follow me for a bit?”
+「あ、あのさ……きみとHしたいなって」=“U-Uhm... I wanna have sex with you, and stuff.”
+「ちょっと付いてきて」=“Come with me for a bit.”
+「生理って重い方？」=“Are your periods heavy?”
+「やってみたいエッチってある？」=“Are there certain types of sex you want to try?”
+「ここで[H]とHしたい」=“I wanna do it with you right here.”
+「あのさ、俺の部屋に来てくれない？」=“Um, hey, why don't you come to my room?”
+「付いてきてもらってもいい？」=“Could I get you to follow me for a bit?”
+「ねぇ、[Hあだ名]」=“Hey, [Hあだ名].”

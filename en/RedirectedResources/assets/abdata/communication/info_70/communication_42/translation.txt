@@ -1,0 +1,2 @@
+「一緒に観光しない？」=“Why not go sightseeing with me?”
+「ねぇねぇ、[Pあだ名]」=“Hey, hey, [Pあだ名].”

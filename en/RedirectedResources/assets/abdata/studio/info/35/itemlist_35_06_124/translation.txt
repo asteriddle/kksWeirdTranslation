@@ -1,0 +1,5 @@
+キャンディクリップA=Candy Clip A
+キャンディクリップB=Candy Clip B
+カップケーキイヤリング=Cupcake Earing
+ファンシーリボン=Fancy Ribbon
+ねこかばん=Cat Bag

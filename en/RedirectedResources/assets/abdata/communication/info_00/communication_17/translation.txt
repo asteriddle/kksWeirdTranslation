@@ -1,0 +1,15 @@
+「好きな男性のタイプってある？」=“Do you have a type, in terms of guys?”
+「積極的な男性ってどう思う？」=“What do you think of proactive guys?”
+「慎重な男性ってどう思う？」=“What do you think of careful guys?”
+「勤勉な男性ってどう思う？」=“What do you think of dilligent guys?”
+「マイペースな男性ってどう思う？」=“What do you think of guys who go at their own pace?”
+「優しい男性ってどう思う？」=“What do you think of kind and gentle guys?”
+「クールな男性ってどう思う？」=“What do you think of cool guys?”
+「エッチって具体的にどんなことをするか知ってる？」=“Do you know what sort of thing sex actually entails?”
+「俺と一緒に遊ばない？」=“Why not come play with me?”
+「ええ、どうしたの？」=“Alright, what is it?”
+「ふふっ、どうしたの？」=“Fufu, what's up?”
+「……何をしてるの？」=“...what are you doing?”
+「ええ、喜んで付き合うわ」=“Ehh, I'm happy you went along with it.”
+「ねえ、[Hあだ名]」=“Hey, [Hあだ名].”
+「ねえ……[Pあだ名]」=“Hey... [Pあだ名].”

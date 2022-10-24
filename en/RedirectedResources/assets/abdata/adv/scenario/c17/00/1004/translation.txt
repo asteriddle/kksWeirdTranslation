@@ -1,0 +1,2 @@
+「どうかしたの？」=“What's the matter?”
+「どうして？」=“Why's that?”

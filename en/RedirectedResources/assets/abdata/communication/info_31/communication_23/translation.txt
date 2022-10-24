@@ -1,0 +1,10 @@
+「恋愛に興味ある？」=“You interested in romance?”
+「好きな男性のタイプってある？」=“Do you have a type, in terms of guys?”
+「ちょっと付いてきてもらっていい？」=“Could I get you to follow me for a bit?”
+「きみのことが好きだ」=“I like you a lot.”
+「ちょっと付いてきて」=“Come with me for a bit.”
+「新婚旅行はどこに行きたい？」=“Where do you want to go for your honeymoon?”
+「俺の部屋に来てくれない？」=“Won't you come to my room?”
+「付いてきてもらってもいい？」=“Could I get you to follow me for a bit?”
+「ねえ、[Hあだ名]」=“Hey, [Hあだ名].”
+「ねえ、[Pあだ名]」=“Hey, [Pあだ名].”

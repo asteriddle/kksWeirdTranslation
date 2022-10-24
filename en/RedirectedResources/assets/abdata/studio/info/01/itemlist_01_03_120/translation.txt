@@ -1,0 +1,3 @@
+カメラ=At Camera
+テレビカメラ=TV Camera
+酒樽=Barrel

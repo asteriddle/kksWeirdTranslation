@@ -1,0 +1,8 @@
+スポーツ=Sports
+植物=Plants
+置物=Ornaments
+その他=Miscellaneous
+サマー=Summer
+ハロウィン=Halloween
+アフタースクール=Afterschool
+クリスマス=Christmas

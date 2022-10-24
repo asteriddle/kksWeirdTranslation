@@ -1,0 +1,3 @@
+SELECTION:「返事をする」=Respond
+SELECTION:「……」=...
+「どうしたの？」=“What's up?”

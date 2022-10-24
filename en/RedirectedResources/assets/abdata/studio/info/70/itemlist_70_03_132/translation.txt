@@ -1,0 +1,2 @@
+トイレットペーパー1=Toiletpaper 1
+トイレットペーパー2=Toiletpaper 2

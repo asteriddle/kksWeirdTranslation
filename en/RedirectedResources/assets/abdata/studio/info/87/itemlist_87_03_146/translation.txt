@@ -1,0 +1,3 @@
+スプーン=Spoon
+箸=Chopsticks
+茶碗=Teacup

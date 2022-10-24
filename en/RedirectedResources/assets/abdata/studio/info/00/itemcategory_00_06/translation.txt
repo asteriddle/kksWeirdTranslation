@@ -1,0 +1,17 @@
+髪=Hair
+頭=Head
+顔=Face
+首=Neck
+胴=Torso
+腰=Hips
+腕=Arms
+手=Hands
+メカ=Mecha
+ファンタジー=Fantasy
+追加01=Additional 01
+追加02=Additional 02
+サマー=Summer
+ハロウィン=Halloween
+アフタースクール=Afterschool
+クリスマス=Christmas
+ダークネス=Darkness

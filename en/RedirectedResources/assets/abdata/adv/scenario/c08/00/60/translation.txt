@@ -1,0 +1,3 @@
+SELECTION:「返事をする」=Respond
+SELECTION:「……」=...
+「どうかしたの？」=“What's the matter?”
