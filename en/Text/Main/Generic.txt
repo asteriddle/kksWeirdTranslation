@@ -1,5 +1,7 @@
 #set exe KoikatsuSunshine
 #set level -1,1
+Character is a trap or a futa (changes gameplay)=Character is a woman
+Idle trap animation=Feminine idle
 終了確認=Exit Confirmation
 ゲームを終了しますか？=Quit The Game?
 はい=OK

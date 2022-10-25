@@ -4,11 +4,11 @@ A not-so-faithful fan translation project for Koikatsu Sunshine
 
 ## Description
 
-The mangled auto translation of storymode is a hot mess so I'm fixing it in my own way. This is a non-faithful 'translation' intended to make the following changes;
+The mangled auto translation of storymode is a hot mess so I'm fixing it in my own way. This is a non-faithful 'translation'/localization intended to make the following changes;
 * De-gender the protagonist and general setting, so playing as a female/nonbinary MC is less weird.
-* Possibly de-gender the characters added to be wooed as well? If someone creates a character intended to not be a woman I guess.
-* Detatch the game from the original's story. What school trip, that's silly, you're an adult.
-* Change creepy dialogue. I don't like it.
+* Change name order where needed, characters by default should refer to you by first name, localization style.
+* Detatch the game from the original's story. What school trip? That's silly, you're an adult.
+* Change the more creepy dialogue. I don't like it.
 * Add stupid references because I do what I want
    Text will obviously conflict with the Japanese voices - but I'm hoping you won't pay too much attention to that.
 
@@ -17,9 +17,12 @@ The mangled auto translation of storymode is a hot mess so I'm fixing it in my o
    As of right now there is no official EN release so I don't have to put 'it may not work in the Steam version' because there is no steam version. Yet.
 
 ## Progress
-   god help me
+   god help me  
 
-   Story: Intro done  
+   **Priority list:**
+   * Get comm, topic, and ADV done for personalities. H can wait.
+
+   **Story: Intro done**  
 
    Personality 00 | Sexy: Not started  
    Personality 01 | Ojousama: Not started  
@@ -35,7 +38,7 @@ The mangled auto translation of storymode is a hot mess so I'm fixing it in my o
    Personality 11 | Motherly: Not started  
    Personality 12 | Big sister: Not started  
    Personality 13 | Gyaru: Not started  
-   Personality 14 | Delinquent: Comm done, topic 75% done, H and ADV not done
+   Personality 14 | Delinquent: Comm done, topic done, ADV like 5 files away from being done
    Personality 15 | Wild: Not started  
    Personality 16 | Wannabe: Not started  
    Personality 17 | Reluctant: Not started  
@@ -55,16 +58,16 @@ The mangled auto translation of storymode is a hot mess so I'm fixing it in my o
    Personality 31 | Willful: Not started  
    Personality 32 | Honest: Not started  
    Personality 33 | Glamorous: Not started  
-   Personality 34 | Returnee: Not started  
+   Personality 34 | Returnee (french?): Not started  
    Personality 35 | Slangy: Not started  
    Personality 36 | Sadistic: Not started  
    Personality 37 | Emotionless: Not started  
-   Personality 38 | Perfectionist: Not started
-   Personality 39 | Island girl: Not started
-   Personality 40 | Noble: Not started
-   Personality 41 | Bokukko: Not started
-   Personality 42 | Genuine: Not started
-   Personality 43 | Hype: Not started
+   Personality 38 | Perfectionist: Not started  
+   Personality 39 | Island girl: Not started  
+   Personality 40 | Noble: Not started  
+   Personality 41 | Bokukko: Not started  
+   Personality 42 | Genuine: Not started  
+   Personality 43 | Hype: Not started  
 
 ## Getting Started
 
@@ -79,11 +82,12 @@ The mangled auto translation of storymode is a hot mess so I'm fixing it in my o
 ## Help & Contributions
 
    I'm embarassingly dyslexic, feel free to poke me if you find a typo (or 20).  
-This is mostly meant as a silly personal writing thing, but in the case of typos/grammer you're free to make corrections and do a pull request.
+This is mostly meant as a silly personal writing thing, but in the case of typos/grammar you're free to make corrections and do a pull request.
 
-   Feel free to branch and make your own changes too. It's your oyster, or whatever.
+   Feel free to fork and make your own changes too. It's your oyster, or whatever. Also feel free to steal any translations that are on the more faithful side of things for your own project if you want, credit is optional but it'd be nice.
 
 ## Acknowledgments
 
 Base translation files/textdump;
-* KKS-Translation
+* [KKS-Translation](https://github.com/IllusionMods/KKS-Translation) (i would have properly forked it but i'm boo boo the fool)  
+   If you'd think you'd be able to, please consider contributing to the project if you'd like a more 'faithful' translation!
