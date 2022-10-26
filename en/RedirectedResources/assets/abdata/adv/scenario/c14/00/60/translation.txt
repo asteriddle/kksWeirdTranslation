@@ -1,2 +1,8 @@
 SELECTION:「返事をする」=Respond
 SELECTION:「……」=...
+「よう、ちょっと来てみたんだけど、入っていいか？」=Hey, you in there? Can I come in?
+「大丈夫だけど、何かあったの？」=Hey, what's up?
+「お前が寂しがってるんじゃねぇかって思って、来てやったんだよ」=I thought you may wanna hang, or something.
+「まぁ、私もその気だから、わかってるよな……？」=Well, I'm in the moon, you know?
+「何だよ、留守か……また出直すか」=Hellooooooo... nobody? Guess I'll come back later...
+

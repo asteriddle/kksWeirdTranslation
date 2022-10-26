@@ -1,1 +1,14 @@
-「お土産を見てみようよ」=“Let's have a look at the souvenirs.”
+「お土産を見てみようよ」=Let's have a look at the souvenirs.
+「お？　シーサーか。これ、なかなか気合入って……」=Oh? A Shisa... that's pretty dang fancy.
+「気に入ったの？」=You like it?
+「わっ！？　いちいち絡んでくるんじゃねぇよ」=Eh? Don't get all nosy, it's awkward.
+「一緒に買い物してるのに、普通に会話するのも許されないって……」=We're shopping together and not even allowed to have a normal conversation?
+「んぐっ！　そ、そりゃそうか。悪ィ……まだ、恋人のノリってやつがわかってなくてよ」=Aughh, that's right! I guess I haven't figured out how to be a good girlfriend yet.
+「ただでさえも、あんま……友達とかいたことなかったしな」=Look, I never really had any friends, either.
+「普通でいいんだよ、普通で。俺は[H名]とこうやって一緒にいられるだけでも楽しいしさ」=Well, a little bit of normal now is ok. I'm happy to be with you right now.
+「お前……よくそういうことサラッと言えるよな。恥ずかしくねぇのかよ」=How the hell can you say something like that so casually?!
+「全然。本当のことだし」=Well, because it's true.
+「お前のそういうとこ、私も少しは見習っていかなきゃな」=I guess I should learn a little from you, too.
+「お、おい、好きだろこういうの？　私が買ってお前にくれてやろっかー」=Oh, hey, you like that, right? I'll buy it for you!
+「あはは。ぎくしゃくしすぎ」=Haha, too awkward.
+「笑ってんじゃねぇよ！！」=Hey! Don't you fucking laugh!

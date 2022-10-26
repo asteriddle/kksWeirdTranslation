@@ -1,1 +1,13 @@
-「はいはい、完敗だよ」=“Yes, yes... a flawless victory.”
+「はいはい、完敗だよ」=Yes, yes... a flawless victory.
+「お、卓球台だ。一勝負していこうか？」=Oh, it's a ping-pong table. Do you want to play?
+「いいぞ。ちょうど身体を動かしたかったとこだ」=Sure, I was looking for soome excercise.
+「おっし、かますぜ！」=Alright! Let's do this!
+「何その迫力……」=What's with the power here...?!
+「余裕見せてんのか？　すぐにその顔、青ざめさせてやるよ」=You showing me you're a loser? I'll make your face go pale in a minute!
+（卓球ってもっとほのぼのしたものだったような……）=(I thought ping-pong was supposed to be a more relaxed thing...)
+「ほら、早く始めるぞ！」=Come on, let's get started!
+「ふぅ、こんなところか。[P名]がそこそこやるから、熱くなっちまった」=Phew, so that's about it. I'm getting all sweaty because you're doing so well...
+「勝ったのは私だけどな！」=I won, though!
+「とか言って本当は花持たせたんじゃねぇだろうな？　お前は……その、優しいヤツだから……」=I'm sure you didn't give out any flowers when you said that? Even though you're a sweet guy?
+「何か言った？　台挟んでるからよく聞こえないよ」=What did you say?　I can't hear you from across the table.
+「な、なんにも言ってねぇよ！」=I didn't say anything!

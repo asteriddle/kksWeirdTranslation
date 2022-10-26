@@ -38,7 +38,7 @@ The mangled auto translation of storymode is a hot mess so I'm fixing it in my o
    Personality 11 | Motherly: Not started  
    Personality 12 | Big sister: Not started  
    Personality 13 | Gyaru: Not started  
-   Personality 14 | Delinquent: Comm done, topic done, ADV like 5 files away from being done
+   **Personality 14 | Delinquent: ALL DONE EXCEPT FOR H**  
    Personality 15 | Wild: Not started  
    Personality 16 | Wannabe: Not started  
    Personality 17 | Reluctant: Not started  
